@@ -4,6 +4,12 @@ Heroscape is just better with Poker cards so I made these.
 
 Note that this design does not mention the various generals on the cards. They are only represented by their icon.
 
+# What do these cards look like?
+
+You can find an export of the cards in the Other/Print/Default folder here on Github, but here is a preview:
+
+![Preview Card Image](https://raw.githubusercontent.com/drbo6/DrBo6s-Heroscape-Cards/main/Other/Print/Default/169-Normal_Sgt.%20Drake%20Alexander.jpg "Sgt. Drake Alexander")
+
 # What are these files?
 
 These are the source files to create Heroscape Poker cards with my design. You can make your own cards if you download Cocktail ([www.cocktail.software](http://www.cocktail.software), these files use v0.9.69), but you also need to know how to edit images (Gimp, Photoshop or Affinity) and how to work a spreadsheet (Excel or Google Sheets).
