@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Layout>
   <UniqueId>58d76f0ec3c7464e9f6f6b7497281fc6</UniqueId>
   <Name>Default</Name>
@@ -8,7 +8,8 @@
   <SafeArea>0</SafeArea>
   <ShowBleedLine>True</ShowBleedLine>
   <ShowSafeLine>False</ShowSafeLine>
-  <Zoom>1.3600000000000003</Zoom>
+  <Zoom>0.88</Zoom>
+  <Orientation>Portrait</Orientation>
   <Layers>
     <Layer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="ImageLayer">
       <Name>Illustration</Name>
@@ -323,14 +324,14 @@
             <ValueMaps />
           </IsEnabled>
           <IsVisible>true</IsVisible>
-          <IsUnlocked>true</IsUnlocked>
+          <IsUnlocked>false</IsUnlocked>
           <Left DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Left>
           <Top DesignValue="-186" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Top>
-          <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
+          <Width DesignValue="822" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Width>
           <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -405,7 +406,7 @@
               <Left DesignValue="7" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Left>
-              <Top DesignValue="-4" LinkedColumn="" LinkType="None">
+              <Top DesignValue="1" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Top>
               <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -423,7 +424,7 @@
               <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </VerticalAlignment>
-              <Text DesignValue="10" LinkedColumn="Life" LinkType="Direct">
+              <Text DesignValue="6" LinkedColumn="Life" LinkType="Direct">
                 <ValueMaps />
               </Text>
               <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -444,6 +445,9 @@
               <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Alignment>
+              <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+                <ValueMaps />
+              </LineMode>
               <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </LineSpacing>
@@ -522,7 +526,7 @@
               <Left DesignValue="12" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Left>
-              <Top DesignValue="-4" LinkedColumn="" LinkType="None">
+              <Top DesignValue="1" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Top>
               <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -540,7 +544,7 @@
               <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </VerticalAlignment>
-              <Text DesignValue="10" LinkedColumn="Movement" LinkType="Direct">
+              <Text DesignValue="8" LinkedColumn="Movement" LinkType="Direct">
                 <ValueMaps />
               </Text>
               <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -561,6 +565,9 @@
               <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Alignment>
+              <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+                <ValueMaps />
+              </LineMode>
               <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </LineSpacing>
@@ -636,7 +643,7 @@
               <Left DesignValue="10" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Left>
-              <Top DesignValue="-4" LinkedColumn="" LinkType="None">
+              <Top DesignValue="1" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Top>
               <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -654,7 +661,7 @@
               <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </VerticalAlignment>
-              <Text DesignValue="10" LinkedColumn="Range" LinkType="Direct">
+              <Text DesignValue="1" LinkedColumn="Range" LinkType="Direct">
                 <ValueMaps />
               </Text>
               <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -675,6 +682,9 @@
               <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Alignment>
+              <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+                <ValueMaps />
+              </LineMode>
               <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </LineSpacing>
@@ -750,7 +760,7 @@
               <Left DesignValue="15" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Left>
-              <Top DesignValue="-4" LinkedColumn="" LinkType="None">
+              <Top DesignValue="1" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Top>
               <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -768,7 +778,7 @@
               <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </VerticalAlignment>
-              <Text DesignValue="10" LinkedColumn="Attack" LinkType="Direct">
+              <Text DesignValue="3" LinkedColumn="Attack" LinkType="Direct">
                 <ValueMaps />
               </Text>
               <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -789,6 +799,9 @@
               <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Alignment>
+              <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+                <ValueMaps />
+              </LineMode>
               <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </LineSpacing>
@@ -864,7 +877,7 @@
               <Left DesignValue="15" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Left>
-              <Top DesignValue="-4" LinkedColumn="" LinkType="None">
+              <Top DesignValue="1" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Top>
               <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
@@ -882,7 +895,7 @@
               <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Top&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </VerticalAlignment>
-              <Text DesignValue="10" LinkedColumn="Defense" LinkType="Direct">
+              <Text DesignValue="4" LinkedColumn="Defense" LinkType="Direct">
                 <ValueMaps />
               </Text>
               <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -903,6 +916,9 @@
               <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </Alignment>
+              <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+                <ValueMaps />
+              </LineMode>
               <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
                 <ValueMaps />
               </LineSpacing>
@@ -989,6 +1005,9 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
           <LineSpacing DesignValue="0" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
@@ -1078,7 +1097,7 @@
       <Left DesignValue="-50" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="-43" LinkedColumn="" LinkType="None">
+      <Top DesignValue="-33" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="150" LinkedColumn="" LinkType="None">
@@ -1096,7 +1115,7 @@
       <VerticalAlignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;VerticalAlignment&gt;Bottom&lt;/VerticalAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </VerticalAlignment>
-      <Text DesignValue="888" LinkedColumn="Cost" LinkType="Direct">
+      <Text DesignValue="888" LinkedColumn="Delta Cost" LinkType="Direct">
         <ValueMaps />
       </Text>
       <Font DesignValue="&lt;FontFamily xmlns=&quot;http://schemas.microsoft.com/winfx/2006/xaml/presentation&quot;&gt;Monkirta Pursuit NC&lt;/FontFamily&gt;" LinkedColumn="" LinkType="None">
@@ -1117,6 +1136,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Right&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -1150,7 +1172,7 @@
       <Width DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Width>
-      <Height DesignValue="NaN" LinkedColumn="" LinkType="None">
+      <Height DesignValue="100" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Height>
       <Rotation DesignValue="0" LinkedColumn="" LinkType="None">
@@ -1267,7 +1289,10 @@
           <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </Alignment>
-          <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
+          <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+            <ValueMaps />
+          </LineMode>
+          <LineSpacing DesignValue="3" LinkedColumn="" LinkType="None">
             <ValueMaps />
           </LineSpacing>
           <ParagraphSpacing DesignValue="0" LinkedColumn="" LinkType="None">
@@ -1365,7 +1390,7 @@
       <Left DesignValue="125" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="73" LinkedColumn="" LinkType="None">
+      <Top DesignValue="77" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="696" LinkedColumn="" LinkType="None">
@@ -1404,6 +1429,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -1437,11 +1465,11 @@
         </ValueMaps>
       </IsEnabled>
       <IsVisible>true</IsVisible>
-      <IsUnlocked>false</IsUnlocked>
+      <IsUnlocked>true</IsUnlocked>
       <Left DesignValue="125" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="39" LinkedColumn="" LinkType="None">
+      <Top DesignValue="44" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="696" LinkedColumn="" LinkType="None">
@@ -1480,6 +1508,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -1517,7 +1548,7 @@
       <Left DesignValue="125" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
-      <Top DesignValue="48" LinkedColumn="" LinkType="None">
+      <Top DesignValue="54" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Top>
       <Width DesignValue="696" LinkedColumn="" LinkType="None">
@@ -1556,6 +1587,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Left&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
@@ -1645,7 +1679,7 @@
       </IsEnabled>
       <IsVisible>true</IsVisible>
       <IsUnlocked>false</IsUnlocked>
-      <Left DesignValue="602" LinkedColumn="" LinkType="None">
+      <Left DesignValue="605" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Left>
       <Top DesignValue="-880" LinkedColumn="" LinkType="None">
@@ -1687,6 +1721,9 @@
       <Alignment DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;TextAlignment&gt;Center&lt;/TextAlignment&gt;" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </Alignment>
+      <LineMode DesignValue="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-16&quot;?&gt;&#xD;&#xA;&lt;LineStackingStrategy&gt;BlockLineHeight&lt;/LineStackingStrategy&gt;" LinkedColumn="" LinkType="None">
+        <ValueMaps />
+      </LineMode>
       <LineSpacing DesignValue="NaN" LinkedColumn="" LinkType="None">
         <ValueMaps />
       </LineSpacing>
