@@ -8,7 +8,7 @@ Note that this design does not mention the various generals on the cards. They a
 
 You can find an export of the cards in the Other/Print/Default folder here on Github, but here is a preview (i.e., final result without a bleed; all cards do have bleeds so that you can print professionally):
 
-![Preview Card Image](https://github.com/drbo6/DrBo6s-Heroscape-Cards/blob/main/Preview_Drake.jpg)")
+![Preview Card Image](https://github.com/drbo6/DrBo6s-Heroscape-Cards/blob/main/Preview_Drake.jpg)
 
 # What are these files?
 
