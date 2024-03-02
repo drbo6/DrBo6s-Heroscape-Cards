@@ -58,7 +58,7 @@ They are cards from my personal collection. Modified Cards have a gold dot next 
 
 # How do I print these?
 
-I use MakePlayingCards.com, but there are other options as well. You can also print them yourself. In case you are not familiar with printing playing cards, please note that these cards are designed with [bleeds](https://en.wikipedia.org/wiki/Bleed_(printing). In other words, there is excess space to the sides of the cards so that you can cut a nice clean image that is the exact same size as a Poker card.
+I use MakePlayingCards.com, but there are other options as well. You can also print them yourself. In case you are not familiar with printing playing cards, please note that these cards are designed with [bleeds](https://en.wikipedia.org/wiki/Bleed_(printing)). In other words, there is excess space to the sides of the cards so that you can cut a nice clean image that is the exact same size as a Poker card.
 
 If you like the cards the way they are, you can find all of them exported to the Other/Print folder, ready to be uploaded to MakePlayingCards.com.
 
