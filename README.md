@@ -6,9 +6,9 @@ Note that this design does not mention the various generals on the cards. They a
 
 # What do these cards look like?
 
-You can find an export of the cards in the Other/Print/Default folder here on Github, but here is a preview:
+You can find an export of the cards in the Other/Print/Default folder here on Github, but here is a preview (i.e., final result without a bleed; all cards do have bleeds so that you can print professionally):
 
-![Preview Card Image](https://raw.githubusercontent.com/drbo6/DrBo6s-Heroscape-Cards/main/Other/Print/Default/169-Normal_Sgt.%20Drake%20Alexander.jpg "Sgt. Drake Alexander")
+![Preview Card Image](https://raw.githubusercontent.com/drbo6/DrBo6s-Heroscape-Cards/main/Preview_Drake.jpg")
 
 # What are these files?
 
